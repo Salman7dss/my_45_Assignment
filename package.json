@@ -1,0 +1,15 @@
+{
+  "name": "my_45_assignment",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "salman saeed",
+  "license": "MIT"
+}
